@@ -1,1 +1,1 @@
-alert(document.domain + "\n" + document.cookie);
+alert("Intrusion XSS");
